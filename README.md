@@ -84,20 +84,7 @@ Flutter学习资料
 [flutter-go](https://github.com/alibaba/flutter-go)<br>
 [dart](https://dart.dev/)
 
-赞赏
---------------------
-因服务器是由个人维护，如果这个项目对您有帮助，您可以扫描下面二维码进行捐赠，谢谢。<br>
-
-![微信](https://github.com/youxinLu/mall/blob/master/screenshots/微信图片_20190905142112.jpg)
-![支付宝](https://github.com/youxinLu/mall/blob/master/screenshots/微信图片_20190905142121.jpg)<br> 
-
-联系我
---------------
-QQ：443765662<br>
-微信<br>
-![微信](https://github.com/youxinLu/mall/blob/master/screenshots/QQ截图20190905142302.png)
-
 License
 ------------
-MIT License  Copyright (c) 2019 youxinLu
+MIT License  Copyright (c) 2019 leoxiaoge
 
